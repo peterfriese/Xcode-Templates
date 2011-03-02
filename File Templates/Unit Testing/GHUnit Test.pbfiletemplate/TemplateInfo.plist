@@ -1,0 +1,4 @@
+{
+	MainTemplateFile = "class.m";
+	Description = "A GHUnit test case.";
+}
